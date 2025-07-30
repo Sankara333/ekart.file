@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Your Orders</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: white;
+    }
+    .order-summary {
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 500px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .order-summary h2 {
+      margin-top: 0;
+    }
+    .order-summary p {
+      margin: 8px 0;
+    }
+    .btn {
+      background-color: yellow;
+      color:white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 4px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+
+  
